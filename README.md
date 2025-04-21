@@ -1,4 +1,4 @@
-# RateMyProfessor_Database_APIs
+# RateMyProfessor_Database_APIs - [![PyPI Downloads](https://static.pepy.tech/badge/ratemyprofessor-database-apis)](https://pepy.tech/projects/ratemyprofessor-database-apis)
 
 RateMyProfessor_Database_APIs is a Python library that allows users to fetch information about professors and schools from the RateMyProfessor database. This package provides easy-to-use APIs to fetch all professors from a school, specific professor details, and school information.
 
